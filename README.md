@@ -77,4 +77,4 @@ nexuschat/
 
 ## License
 
-MIT — do whatever you want with it.
+GPL 3.0 — do whatever you want with it.
