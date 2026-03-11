@@ -1,6 +1,6 @@
 # ✦ NexusChat
 
-A sleek, ChatGPT-like AI chat interface powered by GPT-4 Turbo via RapidAPI. Built as a single self-contained HTML file — no frameworks, no build tools, no dependencies.
+A sleek, ChatGPT-like AI chat interface powered by GPT-4.2 Turbo via RapidAPI. Built as a single self-contained HTML file — no frameworks, no build tools, no dependencies.
 
 ---
 
