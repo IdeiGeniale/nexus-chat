@@ -1,12 +1,12 @@
 # ✦ NexusChat
 
-A sleek, ChatGPT-like AI chat interface powered by GPT-4.2 Turbo via RapidAPI. Built as a single self-contained HTML file — no frameworks, no build tools, no dependencies.
+A sleek, ChatGPT-like AI chat interface powered by Qwen3.5 Turbo via RapidAPI. Built as a single self-contained HTML file — no frameworks, no build tools, no dependencies.
 
 ---
 
 ## Features
 
-- **GPT-4 Turbo** responses via the `chatgpt-42` RapidAPI endpoint
+- **Qwen3.5** responses via the `chatgpt-42` RapidAPI endpoint
 - **Conversation history** — full message context is sent with every request for coherent multi-turn chats
 - **Sidebar** with saved chat history (persisted via localStorage) and a New Conversation button
 - **Copy button** — inline "Copy" button next to any code the AI outputs
