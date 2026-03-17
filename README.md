@@ -4,9 +4,21 @@ A sleek, ChatGPT-like AI chat interface powered by Qwen3.5 Turbo via RapidAPI. B
 
 ---
 
+## Annoncements
+
+March 17th 2026: Qwen 3 Max is getting retired from NexusChat soon.
+
+As you know, NexusChat uses Qwen AI models. I am soon retiring Qwen AI models in favour of Gemini Models soon.
+I will officially retire Qwen AI models from NexusChat on March 21st 2026.
+
+I am doing this because of cost-cutting, which is a normal busniess practice.
+Gemini models are good, and NexusChat is a simple AI site made by me.
+
+---
+
 ## Features
 
-- **Qwen3.5** responses via the `chatgpt-42` RapidAPI endpoint
+- **Qwen3.5** responses via the RapidAPI endpoint
 - **Conversation history** — full message context is sent with every request for coherent multi-turn chats
 - **Sidebar** with saved chat history (persisted via localStorage) and a New Conversation button
 - **Copy button** — inline "Copy" button next to any code the AI outputs
