@@ -15,6 +15,7 @@ I am doing this because of cost-cutting, which is a normal busniess practice.
 Gemini models are good, and NexusChat is a simple AI site made by me.
 
 New Planned Model: Gemini 3 Flash
+
 Planned Model: Gemini 2.5 Flash (not going to be used, replaced by Gemini 3 Flash)
 
 ---
