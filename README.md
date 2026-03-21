@@ -6,17 +6,17 @@ A sleek, ChatGPT-like AI chat interface powered by Qwen3.5 Turbo via RapidAPI. B
 
 ## Annoncements
 
-March 17th 2026: Qwen 3 Max is getting retired from NexusChat soon.
+March 20th 2026: Migration to Gemini 3 Flash Complete
 
-As you know, NexusChat uses Qwen AI models. I am soon retiring Qwen AI models in favour of Gemini Models soon.
-I will officially retire Qwen AI models from NexusChat on March 21st 2026.
+The migration to Gemini models is complete. Qwen 3.5 Max is now considered a LEGACY model, it is still usable, but it is now deprecated and it will be removed from NexusChat on April 25th 2026 at 3 PM Eastern Europen Time (EET).
 
-I am doing this because of cost-cutting, which is a normal busniess practice.
-Gemini models are good, and NexusChat is a simple AI site made by me.
+Please consider switching to Gemini 3 Flash from Qwen 3.5 Max for better stability and reliability.
 
-New Planned Model: Gemini 3 Flash
+The old website (ideigeniale.github.io/nexus-chat/) will be shut down on April 25th 2026 along with Qwen 3.5 Max for NexusChat.
 
-Planned Model: Gemini 2.5 Flash (not going to be used, replaced by Gemini 3 Flash)
+Until then, the model will be slowly deprecated and Qwen 3.5 for NexusChat will be fully shutdown on April 30th 2026 or May 10th 2026 on extended support.
+
+Thank you for using NexusChat. NOTE: NexusChat is NOT shutting down.
 
 ---
 
