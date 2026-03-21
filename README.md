@@ -20,6 +20,8 @@ Thank you for using NexusChat. NOTE: NexusChat is NOT shutting down.
 
 You can sign up for extended support for Qwen 3.5 Max for NexusChat here: (https://tinyurl.com/qwen-support-extended)
 
+You can also switch to other models like Gemini 3.1 Flash-Lite for fastest responses or Gemini 2.5 Flash.
+
 ---
 
 ## Features
