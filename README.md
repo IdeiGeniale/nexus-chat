@@ -18,6 +18,8 @@ Until then, the model will be slowly deprecated and Qwen 3.5 for NexusChat will 
 
 Thank you for using NexusChat. NOTE: NexusChat is NOT shutting down.
 
+You can sign up for extended support for Qwen 3.5 Max for NexusChat here: (https://tinyurl.com/qwen-support-extended)
+
 ---
 
 ## Features
